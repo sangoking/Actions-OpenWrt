@@ -13,7 +13,7 @@ git clone https://github.com/openwrt-develop/luci-theme-atmaterial package/luci-
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
 git clone https://github.com/Lienol/openwrt-package/tree/master/lienol/luci-app-passwall package/luci-app-passwall
 git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan
-git clone https://github.com/lisaac/luci-app-diskman 
+git clone https://github.com/lisaac/luci-app-diskman package/luci-app-diskman
 
 #更新feeds
 ./scripts/feeds update -a
